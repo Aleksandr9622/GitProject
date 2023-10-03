@@ -1,7 +1,7 @@
 # GitProject
 Here I will create and improve a complex number class in Python.
 
-![Комплексные числа](https://github.com/Aleksandr9622/GitProject/blob/master/Euler_git.png)
+![Комплексные числа](https://github.com/Aleksandr9622/GitProject/blob/master/Euler_git.jpg)
 
 The following tasks will be described:
 1.
