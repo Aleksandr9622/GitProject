@@ -1,5 +1,5 @@
 # GitProject
-<h3>Комплескные числа</h3>
+<h2>Комплескные числа</h2>
 Here I will create and improve a complex number class in Python.
 
 ![Комплексные числа](https://github.com/Aleksandr9622/GitProject/blob/master/Euler_git.jpg)
